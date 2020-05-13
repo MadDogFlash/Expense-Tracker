@@ -35,3 +35,5 @@ details
 ## Acknowledgments
 - Thank you Brad for publishing the tutorials
  The tutorial I used is from a great programmer and this is the link to his tutorial: shorturl.at/hjrDY and his github: https://github.com/bradtraversy
+ 
+<img src=" https://developerdiaz.dev/img/portfolio-02.jpg >
